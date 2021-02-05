@@ -11,7 +11,7 @@
     </div>
     <div class="row justify-content-center gif">
       <div class="col-3 ">
-        <img src="..\assets\img\HeadShot1.jpg" alt="" class="img-fluid  border pic">
+        <img src="..\assets\img\HeadShot1.jpg" alt="" class="img-fluid  border pic mt-3">
 
         <h1 class="text-light pl-4">
           Trevor Douty
